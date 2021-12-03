@@ -1,3 +1,2 @@
 # curso-js
-anotaçoes fodasticas
- mo pa slk
+Arquivos de exercício em resumo de um curso.
